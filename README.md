@@ -1,4 +1,4 @@
-## Hi there 👋
+## lowesregister-helphub/lowesregister-helphub
 
 <!--
 **lowesregister-helphub/lowesregister-helphub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
